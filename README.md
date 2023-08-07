@@ -1,6 +1,6 @@
 # What it is?
 
-- This is a simple practice project to get used to work on Automation with Java using BDD process.
+- This is a simple compendium of practice projects to get used to work on Automation with Java using BDD process.
 
 # Which technologies did I use?
 
@@ -13,3 +13,7 @@
   - Selenium
   - Junit
   - Maven
+
+ # What do each folder do?
+ - [Project1:](https://github.com/knowthyselfBR/Java-BDD-practice/blob/main/project1/README.md)
+   - Automate search the word "Cheese" on Google.
