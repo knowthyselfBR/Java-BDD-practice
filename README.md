@@ -9,7 +9,7 @@
 - Agile Software Development Process
   - BDD (Behavior Driven Design)
 - Tech
-  - Cucumber
+  - Cucumber - Gherkin
   - Selenium
   - Junit
   - Maven
