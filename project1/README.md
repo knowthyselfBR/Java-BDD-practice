@@ -1,6 +1,6 @@
 # What it is?
 
-- This is a simple practice project to get used to work on Automation with Java using BDD process.
+- Automate the search of the word "Cheese" on Google.
 
 # Which technologies did I use?
 
