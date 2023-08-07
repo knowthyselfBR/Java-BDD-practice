@@ -15,5 +15,5 @@
   - Maven
 
  # What do each folder do?
- - [Project1:](https://github.com/knowthyselfBR/Java-BDD-practice/blob/main/project1/README.md)
+ - [Project1:](https://github.com/knowthyselfBR/Java-BDD-practice/tree/main/project1)
    - Automate search the word "Cheese" on Google.
